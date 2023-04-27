@@ -37,10 +37,10 @@ $ python pythonDynamixelOSC.py
 
 With any app sending/receiving OSC (TouchDesigner, Isadora, Max/Msp, PureData...)
 with all values as integer
-- change the velocity OSC address = '/speed' (step/second)
-- change the acceleration OSC address = '/accel' (step/second/second)
-- move to position OSC address = '/goal' (step, alway positive)
-- retrieve position OSC address = '/go' (any value, you will receive the position on OSC address '/position'
+- change the velocity OSC address '/speed' (step/second)
+- change the acceleration OSC address '/accel' (step/second/second)
+- move to position OSC address '/goal' (step, alway positive)
+- retrieve position OSC address '/go' (any value, you will receive the position on OSC address '/position')
 
 My motor have 4096 step / rotation
 
