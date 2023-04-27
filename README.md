@@ -13,6 +13,7 @@ To use it, you need:
 
 Install python-osc module
 - $ pip install python-osc
+
 Install dynamixel python library (a simplified one)
 - $ pip install dynamixel-controller
 
