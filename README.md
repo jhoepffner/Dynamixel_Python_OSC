@@ -12,9 +12,9 @@ To use it, you need:
 - Command Line Interface
 
 Install python-osc module
-$ pip install python-osc
+- $ pip install python-osc
 Install dynamixel python library (a simplified one)
-$ pip install dynamixel-controller
+- $ pip install dynamixel-controller
 
 With Dynamixel-Wizard application, adjust the motor settings:
 - motor ID (1 in the actual script)
