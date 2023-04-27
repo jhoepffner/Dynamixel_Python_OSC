@@ -8,7 +8,7 @@ To use it, you need:
 - working Dynamixel servo, I tested it with the XL430-W250-T model. With other models you may have to change the "connect" line
 - Dynamixel U2D2 interface allowing serial communication via USB
 - DC alimentation for the motor
-- Python installed on your computer
+- Python installed on your computer (minimum Python 3)
 - Command Line Interface
 
 Install python-osc module
